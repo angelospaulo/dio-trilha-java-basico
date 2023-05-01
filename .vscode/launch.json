@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContaBancaria",
+            "request": "launch",
+            "mainClass": "ContaBancaria",
+            "projectName": "dio-trilha-java-basico_acd548bd"
+        },
+        {
+            "type": "java",
             "name": "MinhaClasse",
             "request": "launch",
             "mainClass": "MinhaClasse",
